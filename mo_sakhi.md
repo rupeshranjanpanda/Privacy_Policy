@@ -1,13 +1,13 @@
-Privacy Policy --- Mo Sakhi
+Privacy Policy ---  Sakhi
 
-App Name: Mo Sakhi
+App Name:  Sakhi
 Developer / Company: Rupesh Ranjan Panda
 Privacy Contact: rupeshranjanpanda@gmail.com
 
 
 1. Introduction
 
-Mo Sakhi ("Mo Sakhi", "we", "our", or "us") is a menstrual-health and
+Sakhi ("Sakhi", "we", "our", or "us") is a menstrual-health and
 wellness application designed to help users record and understand
 information such as menstrual periods, cycle patterns, symptoms, mood,
 notes, and related wellness information.
