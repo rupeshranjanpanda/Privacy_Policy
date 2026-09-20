@@ -119,7 +119,7 @@ If you have questions, concerns, or requests regarding this Privacy Policy or Pa
 
 **Developer:** Rupesh  
 **App:** PaisaBox  
-**Privacy Contact Email:** **[ADD YOUR PUBLIC SUPPORT/PRIVACY EMAIL HERE]**
+**Privacy Contact Email:** rupeshranjanpanda@gmail.com
 
 Please replace the placeholder email above with a real, publicly accessible contact email before publishing this policy on Google Play.
 
